@@ -1,5 +1,12 @@
 # Changelog
 
+### [6.0.1](https://www.github.com/googleapis/java-spanner/compare/v6.0.0...v6.0.1) (2021-03-23)
+
+
+### Bug Fixes
+
+* retry cancelled error on first statement in transaction ([#999](https://www.github.com/googleapis/java-spanner/issues/999)) ([a95f6f8](https://www.github.com/googleapis/java-spanner/commit/a95f6f8dc21d27133a0150ea8df963e2bc543e40)), closes [#938](https://www.github.com/googleapis/java-spanner/issues/938)
+
 ## [6.0.0](https://www.github.com/googleapis/java-spanner/compare/v5.2.0...v6.0.0) (2021-03-21)
 
 
